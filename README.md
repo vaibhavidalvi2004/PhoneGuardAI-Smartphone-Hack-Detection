@@ -174,6 +174,4 @@ This project is open-sourced under the MIT License. See the `LICENSE` file for m
 
 ## 💬 Let's Connect
 
-Made with ❤️ by @harshadpy
-
 "Stay vigilant, stay secure. GuardianAI has your back." 🛡️
